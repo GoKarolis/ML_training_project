@@ -1,10 +1,10 @@
 ## ML_training_project
 
-#Inspiration:
+######Inspiration:
 
 All wines are different, but physiochemical properties data and machine learning can help to determine a 'good' wine!
 
-#Goal:
+######Goal:
 
 Create a ML model which finds out the quality of wine
 Raw dataset can be found here:
