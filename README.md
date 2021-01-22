@@ -1,5 +1,8 @@
 ## ML_training_project
 
+*kg-red-wine-analysis*
+
+
 **Inspiration:**
 
 All wines are different, but physiochemical properties data and machine learning can help to determine a 'good' wine!
